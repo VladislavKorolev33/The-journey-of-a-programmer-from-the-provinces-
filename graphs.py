@@ -1,6 +1,5 @@
-<<<<<<< Updated upstream
-print('гусь мазь')
-=======
+
+
 from networkx import DiGraph, draw
 from matplotlib.pyplot import show
 
@@ -41,4 +40,4 @@ result = ", ".join(nodes)
 print(f"Вы ввели:{result}")
 
 show()
->>>>>>> Stashed changes
+
